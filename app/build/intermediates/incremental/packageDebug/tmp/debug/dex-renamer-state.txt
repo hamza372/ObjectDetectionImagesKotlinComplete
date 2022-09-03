@@ -1,0 +1,4 @@
+#Sat Sep 03 13:00:40 PDT 2022
+base.0=C\:\\Users\\abc\\StudioProjects\\ObjectDetectionKotlinStarter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
